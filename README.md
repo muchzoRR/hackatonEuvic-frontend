@@ -1,2 +1,2 @@
-# hackatonEuvic
-Chillout Hackathon - 03.11.2016
+# hackatonEuvic - frontend
+Chillout Hackathon - 04.11.2016/05.11.2016
